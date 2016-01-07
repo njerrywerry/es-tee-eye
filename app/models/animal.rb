@@ -9,7 +9,3 @@ class Animal < ActiveRecord::Base
   end
 
 end
-
-class Lion < Animal; end
-class Meerkat < Animal; end
-class WildBoar < Animal; end
